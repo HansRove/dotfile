@@ -1,3 +1,4 @@
+# 将kaboom全局改成你的机子名称
 export ZSH="/Users/kaboom/.oh-my-zsh"
 
 #ZSH_THEME="powerlevel9k/powerlevel9k"
@@ -80,6 +81,6 @@ eval "$(pyenv virtualenv-init -)"
 
 export PATH="$HOME/.npm-global/bin:$PATH"
 
-fortune
+# fortune
 
 export PATH="/usr/local/opt/tcl-tk/bin:$PATH"
