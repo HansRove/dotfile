@@ -13,7 +13,8 @@ My terminal looks like a garden. 🌹 🏘 🌱
 - zsh
 - oh-my-zsh 
 - [iterm darkside theme](https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/schemes)
-- [powerlevel9k](https://github.com/bhilburn/powerlevel9k)
+- -[powerlevel9k](https://github.com/bhilburn/powerlevel9k)-
+- [powerlevel10k 打开命令行更加快](https://github.com/romkatv/powerlevel10k)
 - [tmux config](https://github.com/samoshkin/tmux-config)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
