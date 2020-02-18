@@ -92,10 +92,10 @@ sudo gem install colorls
 7.
 Using Homebrew or Linuxbrew
 You can use Homebrew or Linuxbrew to install fzf.
-``
+```
 brew install fzf
 
-# To install useful key bindings and fuzzy completion:
+To install useful key bindings and fuzzy completion:
 $(brew --prefix)/opt/fzf/install
 
 ````
