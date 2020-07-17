@@ -13,7 +13,7 @@ My terminal looks like a garden. 🌹 🏘 🌱
 - zsh
 - oh-my-zsh 
 - [iterm darkside theme](https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/schemes)
-- ~~[powerlevel9k](https://github.com/bhilburn/powerlevel9k)~~ , 这个还需要， `zsh-autosuggestions`这个插件有依赖
+- ~~[powerlevel9k](https://github.com/bhilburn/powerlevel9k)~~ ,  `zsh-autosuggestions`这个插件可能有依赖， 不行再安装
 - [powerlevel10k 打开命令行更加快](https://github.com/romkatv/powerlevel10k)
 - [tmux config](https://github.com/samoshkin/tmux-config)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
@@ -63,6 +63,16 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 
 // ~/.zshrc 文件中添加， 如果有则直接写
 plugins=(zsh-autosuggestions)
+
+下面需要操作，否则出不来； 无效
+Clone this repository somewhere on your machine. This guide will assume ~/.zsh/zsh-autosuggestions.
+
+git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
+Add the following to your .zshrc:
+
+source ~/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
+Start a new terminal session.
+
 ```
 
 5.
