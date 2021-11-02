@@ -161,6 +161,15 @@ export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 ```
 
+
+缺少的支持
+```
+brew install fortune
+brew install pyenv
+brew install pyenv-virtualenv
+```
+
+
 ## License
 
 MIT @ [wangshub](https://github.com/wangshub)
