@@ -42,6 +42,8 @@ $ ./tmux-config/install.sh
 ```
 
 4.创建一个临时文件夹： TEMP , git clone https://github.com/zsh-users/zsh-autosuggestions 下载文件夹(zsh-autosuggestions)， 整个文件夹移动到 ~/.oh-my-zsh/custom/plugins/
+映射到这个路径里 /usr/local/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+
 [
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 
