@@ -21,6 +21,24 @@ My terminal looks like a garden. 🌹 🏘 🌱
 - [colorls](https://github.com/athityakumar/colorls)
 - [fzf](https://github.com/junegunn/fzf)
 
+
+前置步骤确保omz完整安装
+```
+echo $SHELL
+
+/bin/bash
+
+// 切换
+chsh -s /bin/zsh
+
+// 安装更新
+sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+
+
+```
+
+
+
 1.下载item2主题  
 
 2.创建一个临时文件夹： TEMP , 
