@@ -187,6 +187,8 @@ brew install pyenv
 brew install pyenv-virtualenv
 ```
 
+item2 text配置
+
 
 ## License
 
