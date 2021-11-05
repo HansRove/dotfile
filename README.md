@@ -194,7 +194,7 @@ brew install pyenv-virtualenv
 
 brew install git-open
 
-git clone https://github.com/wting/autojump wting/autojump
+git clone https://github.com/wting/autojump
 
 ```
 
