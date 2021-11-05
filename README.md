@@ -22,6 +22,12 @@ My terminal looks like a garden. 🌹 🏘 🌱
 - [fzf](https://github.com/junegunn/fzf)
 
 
+如果有git代理则取消   git报   Proxy CONNECT aborted
+```
+git config --global --unset http.proxy
+```
+
+
 前置步骤确保omz完整安装
 ```
 echo $SHELL
