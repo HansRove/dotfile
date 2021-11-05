@@ -188,7 +188,7 @@ brew install pyenv-virtualenv
 ```
 
 item2 text配置
-
+https://segmentfault.com/a/1190000022813972
 
 ## License
 
