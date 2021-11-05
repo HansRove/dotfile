@@ -185,7 +185,15 @@ export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles
 brew install fortune
 brew install pyenv
 brew install pyenv-virtualenv
+
+brew install git-open
+
+git clone https://github.com/wting/autojump wting/autojump
+
 ```
+
+https://mirrors.tuna.tsinghua.edu.cn/help/homebrew/
+
 
 item2 text配置
 https://segmentfault.com/a/1190000022813972
