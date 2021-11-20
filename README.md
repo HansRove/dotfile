@@ -13,12 +13,11 @@ My terminal looks like a garden. 🌹 🏘 🌱
 - zsh
 - oh-my-zsh 
 - [iterm darkside theme](https://github.com/mbadolato/iTerm2-Color-Schemes/tree/master/schemes)
-- ~~[powerlevel9k](https://github.com/bhilburn/powerlevel9k)~~ ,  `zsh-autosuggestions`这个插件可能有依赖， 不行再安装
-- [powerlevel10k 打开命令行更加快](https://github.com/romkatv/powerlevel10k)
+- [powerlevel10k 打开命令行更加快](https://github.com/romkatv/powerlevel10k)    [主题]
 - [tmux config](https://github.com/samoshkin/tmux-config)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-- [colorls](https://github.com/athityakumar/colorls)     sudo gem install colorls -n /usr/local/bin
+- [colorls](https://github.com/athityakumar/colorls)     `sudo gem install colorls -n /usr/local/bin`
 - [fzf](https://github.com/junegunn/fzf)
 
 
