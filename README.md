@@ -18,7 +18,7 @@ My terminal looks like a garden. 🌹 🏘 🌱
 - [tmux config](https://github.com/samoshkin/tmux-config)
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)
-- [colorls](https://github.com/athityakumar/colorls)
+- [colorls](https://github.com/athityakumar/colorls)     sudo gem install colorls -n /usr/local/bin
 - [fzf](https://github.com/junegunn/fzf)
 
 
